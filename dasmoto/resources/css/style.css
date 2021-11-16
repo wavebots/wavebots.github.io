@@ -47,7 +47,7 @@
 .caption{
     font-family: helvetica;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .price{
@@ -57,5 +57,5 @@
 }
 
 main{
-    font-size: 18px;
+    font-size: 20px;
 }
