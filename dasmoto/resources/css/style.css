@@ -1,0 +1,61 @@
+.banner{
+    position: relative;
+    
+}
+
+.banner img{
+    height: 150px;
+    width:100%;
+    object-fit: cover;
+}
+.banner h3{
+    position: absolute;
+    top:-90px;
+    bottom:200px;
+    right: 170px;
+    text-align: center;
+    font-size:100px;
+    color:yellow;
+    font-weight: bold;
+    font-family: helvetica;
+
+}
+
+#brushes h2 {
+    background-color: mediumspringgreen;
+    font-family: helvetica;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#frames h2 {
+    background-color: lightcoral;
+    font-family: helvetica;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#paint h2 {
+    background-color: skyblue;
+    font-family: helvetica;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+.caption{
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.price{
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+main{
+    font-size: 18px;
+}
