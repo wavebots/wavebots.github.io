@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.colors{
+    border: 3px solid black;
+    margin:10px 50px;
+    padding-top: 10px;
+    height: 250px;   
+}
+
+header{
+    margin-left:30px;
+}
+
+h1{
+    Font-weight: 700 (bold);
+    Font-size: 26px;
+    Font-family: 'Nunito Sans';
+    margin-left:20px;
+    margin-top:10px;
+}
+
+h2{
+    Font-weight: 500;
+    Font-size: 18px;
+    Font-family: Poppins;
+    margin-left:20px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+
+ 
+
+.swatch{
+    float: left;
+    list-style-type: none;
+    width:20%;
+    max-height:80px;
+    padding: 20px 30px;
+    margin: 10px 5px;
+    text-align: center;
+    font-family: 'Roboto', serif;
+    font-weight:700;
+    display: inline;
+      
+}
+.dark_gray{
+    background-color: #6E777A;
+    color: white;
+    
+    
+}
+
+.baby_blue{
+    background-color: #96DBFB;  
+}
+
+.light_blue{
+    background-color: #E1F2Fa;    
+}
+
+.gray_blue{
+    background-color: #496b7a;
+    color: white;
+}
+
+.light_gray{
+    background-color: #b3c1c7;  
+}
+
+.fonts{
+    border: 3px solid black;
+    margin:20px 50px;
+    padding-top: 20px;
+    height: 400px;
+}
+
+article{
+    float: left;
+    list-style-type: none;
+    width:40%;
+    max-height:80px;
+    line-height:30px;
+    padding: 20px 30px;
+    margin: 10px 5px;
+    display: inline;
+}
+
+article .title{
+    text-decoration: underline;
+    font-size:20px
+}
+
+article .bold{
+    font-weight: bold;
+}
+
+article .italic{
+    font-style: italic;
+}
+
+.Source_Code_Pro{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.Nunito_Sans{
+    font-family: 'Nunito Sans', monospace;
+}
+
+.Poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.text_styles{
+    border: 3px solid black;
+    margin:20px 50px;
+    padding-top: 20px;
+    height: 400px;
+}
+
+.text_styles li{
+    margin-left: 50px;
+    font-size:  18px;
+}
+
+.text_styles h2{
+    margin-top:20px;
+
+}
+
+p{
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: Poppins;
+}
+
+.text_styles p{
+    margin-left:20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+
+
